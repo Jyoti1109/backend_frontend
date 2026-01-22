@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "911033683739",
+    "project_id": "good-news-ab93b",
+    "storage_bucket": "good-news-ab93b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911033683739:android:7094819e213df06999cdbe",
+        "android_client_info": {
+          "package_name": "com.lc.good_news"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN6NcMGG-e-sv8PHQe7yruH5P1apg9lrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

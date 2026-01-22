@@ -1,0 +1,9 @@
+flask
+flask-cors
+pymysql
+bcrypt
+bleach
+python-dotenv
+requests
+flask-sqlalchemy
+

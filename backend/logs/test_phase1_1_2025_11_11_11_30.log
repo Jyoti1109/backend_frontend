@@ -1,0 +1,26 @@
+2025-11-11 11:30:35,397 - INFO - === Phase 1.1 Stability Verification ===
+2025-11-11 11:30:35,401 - INFO - Starting Phase 1.1 verification test
+2025-11-11 11:30:35,402 - INFO - Testing logging functionality
+2025-11-11 11:30:35,402 - WARNING - This is a warning message
+2025-11-11 11:30:35,402 - ERROR - This is an error message
+2025-11-11 11:30:35,402 - INFO - Log file created: logs/test_phase1_1_2025_11_11_11_30.log (328 bytes)
+2025-11-11 11:30:35,402 - INFO - Logging Test: PASS
+2025-11-11 11:30:35,410 - WARNING - Improper ending: ID 24283 -  Darth Vader image on the back
+2025-11-11 11:30:35,410 - WARNING - Improper ending: ID 24282 - ding and instruction following
+2025-11-11 11:30:35,410 - WARNING - Improper ending: ID 24281 - s, even when the screen is off
+2025-11-11 11:30:35,410 - WARNING - Improper ending: ID 24279 - usernames feature by next year
+2025-11-11 11:30:35,410 - WARNING - Improper ending: ID 24278 - the other models in the series
+2025-11-11 11:30:35,410 - WARNING - Improper ending: ID 24277 - D TV has a new Film Maker Mode
+2025-11-11 11:30:35,410 - WARNING - Improper ending: ID 24273 -  career spanning seven decades
+2025-11-11 11:30:35,410 - INFO - Fallback summaries: 20 checked
+2025-11-11 11:30:35,410 - INFO - Average length: 119.5 chars
+2025-11-11 11:30:35,410 - INFO - Proper endings: 13/20 (65.0%)
+2025-11-11 11:30:35,411 - INFO - Fallback Summaries Test: FAIL
+2025-11-11 11:30:35,514 - INFO - Recent articles with content < 10 chars: 41
+2025-11-11 11:30:35,515 - INFO - Recent articles with 'File photo' content: 16
+2025-11-11 11:30:35,515 - INFO - Content Validation Test: FAIL
+2025-11-11 11:30:35,515 - INFO - === VERIFICATION RESULTS ===
+2025-11-11 11:30:35,515 - INFO - Logging: PASS — File logging working
+2025-11-11 11:30:35,515 - INFO - Fallback Summaries: FAIL — Issues with endings or length
+2025-11-11 11:30:35,517 - INFO - Content Validation: FAIL — Short content still present
+2025-11-11 11:30:35,517 - INFO - Overall: ⚠️ Minor Issues

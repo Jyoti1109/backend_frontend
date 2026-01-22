@@ -1,0 +1,6 @@
+/build/
+/.dart_tool/
+/.pub-cache/
+/.packages
+*.log
+coverage/

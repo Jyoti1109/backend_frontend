@@ -1,0 +1,29 @@
+flutter_native_splash:
+  # Background color for splash screen
+  color: "#FFFFFF"
+  
+  # Background image (optional)
+  # image: assets/images/splash_background.png
+  
+  # Image to display on splash screen
+  image: android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+  
+  # App name to display (optional)
+  android_gravity: center
+  ios_content_mode: center
+  
+  # App name
+  app_name: Good News
+  
+  # Full screen mode
+  fullscreen: true
+  
+  # Android specific settings
+  android: true
+  android_12: true
+  
+  # iOS specific settings
+  ios: true
+  
+  # Web specific settings
+  web: false

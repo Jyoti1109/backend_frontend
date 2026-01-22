@@ -1,0 +1,143 @@
+{
+  "general": [
+    {
+      "url": "https://feeds.feedburner.com/NDTV-LatestNews",
+      "category": "General",
+      "source_name": "NDTV",
+      "enabled": true,
+      "priority": 1
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "category": "General",
+      "source_name": "Times of India",
+      "enabled": true,
+      "priority": 1
+    },
+    {
+      "url": "https://www.thehindu.com/news/national/?service=rss",
+      "category": "National",
+      "source_name": "The Hindu",
+      "enabled": true,
+      "priority": 1
+    },
+    {
+      "url": "https://indianexpress.com/section/technology/rss/",
+      "category": "Technology",
+      "source_name": "Indian Express Tech",
+      "enabled": true,
+      "priority": 1
+    },
+    {
+      "url": "https://www.thehindu.com/sci-tech/?service=rss",
+      "category": "Science",
+      "source_name": "The Hindu Science",
+      "enabled": true,
+      "priority": 1
+    },
+    {
+      "url": "https://www.thehindu.com/business/?service=rss",
+      "category": "Business",
+      "source_name": "The Hindu Business",
+      "enabled": true,
+      "priority": 1
+    },
+    {
+      "url": "https://www.thehindu.com/sport/?service=rss",
+      "category": "Sports",
+      "source_name": "The Hindu Sports",
+      "enabled": true,
+      "priority": 1
+    },
+    {
+      "url": "https://www.thehindu.com/entertainment/?service=rss",
+      "category": "Entertainment",
+      "source_name": "The Hindu Entertainment",
+      "enabled": true,
+      "priority": 1
+    },
+    {
+      "url": "https://feeds.feedburner.com/TechCrunch",
+      "category": "Technology",
+      "source_name": "TechCrunch",
+      "enabled": true,
+      "priority": 1
+    },
+    {
+      "url": "https://feeds.feedburner.com/gadgets360-latest",
+      "category": "Technology",
+      "source_name": "Gadgets 360",
+      "enabled": true,
+      "priority": 1
+    },
+    {
+      "url": "https://feeds.feedburner.com/entrepreneur/latest",
+      "category": "Business",
+      "source_name": "Entrepreneur",
+      "enabled": true,
+      "priority": 1
+    },
+    {
+      "url": "https://feeds.feedburner.com/ndtvsports-cricket",
+      "category": "Sports",
+      "source_name": "NDTV Sports",
+      "enabled": true,
+      "priority": 1
+    },
+    {
+      "url": "https://www.thehindu.com/sci-tech/health/?service=rss",
+      "category": "Health",
+      "source_name": "The Hindu Health",
+      "enabled": true,
+      "priority": 1
+    },
+    {
+      "url": "https://www.thehindu.com/news/national/other-states/?service=rss",
+      "category": "Politics",
+      "source_name": "The Hindu Politics",
+      "enabled": true,
+      "priority": 1
+    },
+    {
+      "url": "https://feeds.feedburner.com/ndtvnews-latest",
+      "category": "Politics",
+      "source_name": "NDTV Latest",
+      "enabled": true,
+      "priority": 1
+    },
+    {
+      "url": "https://www.thehindu.com/life-and-style/?service=rss",
+      "category": "Community",
+      "source_name": "The Hindu Lifestyle",
+      "enabled": true,
+      "priority": 1
+    }
+  ],
+  "education": [
+    {
+      "url": "https://feeds.feedburner.com/educationnews",
+      "category": "Education",
+      "source_name": "Education News",
+      "enabled": true,
+      "priority": 1
+    },
+    {
+      "url": "https://feeds.feedburner.com/UniversityWorldNews",
+      "category": "Education",
+      "source_name": "University World News",
+      "enabled": true,
+      "priority": 1
+    },
+    {
+      "url": "https://www.thehindu.com/news/cities/Delhi/education/?service=rss",
+      "category": "Education",
+      "source_name": "The Hindu Education",
+      "enabled": true,
+      "priority": 1
+    }
+  ],
+  "metadata": {
+    "last_updated": "2025-11-10",
+    "total_sources": 19
+  }
+}
